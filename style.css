@@ -1,0 +1,55 @@
+
+#name {
+  margin-top: 20px;
+  text-align: center;
+}
+#categories{
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+#categories h2{
+  color:brown;
+  text-align: left;
+}
+#books {
+  height: : 50%;
+  overflow: hidden;
+}
+
+#categories p {
+  color:grey;
+  text-align: left;
+}
+
+#aboutme h2{
+  margin-top: 100px;
+  color:brown;
+  background-color:white;
+  text-align: center;
+
+}
+#aboutme p {
+  padding-left: 80px;
+  padding-right: 20px;
+  color:grey;
+  background-color:white;
+  text-align: center;
+
+}
+
+#me{
+  margin-left: 200px;
+  margin-top: 100px;
+
+}
+/*Featurettes*/
+.featurettes-divider {
+  margin:80px 0; /*Space out the <hr> more */
+}
+
+#info {
+  margin-top: 200px;
+  margin-bottom: 100px;
+  color:grey;
+  text-align: center
+}
